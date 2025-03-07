@@ -34,7 +34,7 @@ function App() {
           element={
             <div className="flex flex-col min-h-screen">
               <Header/>
-              <main className="place-content-center gap-4 min-h-screen">
+              <main className="place-content-center gap-4 min-h-screen pt-16">
                 <Services />
               </main>
               <Footer />
@@ -48,7 +48,7 @@ function App() {
           element={
             <div className="flex flex-col min-h-screen">
               <Header />
-              <main className="place-content-center gap-4 min-h-screen">
+              <main className="place-content-center gap-4 min-h-screen pt-16">
                 <Contact />
               </main>
               <Footer />
